@@ -1,5 +1,4 @@
 # Children-Identity-OS-Public-Ledger
-# Public Ledger — Children's Identity OS
 
 ## What This Is
 
