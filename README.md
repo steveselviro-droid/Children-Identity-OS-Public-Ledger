@@ -34,7 +34,7 @@ If you test the #ProveMeWrongChallenge and cannot find a violation:
 1. Your name (with permission) will be added to [WITNESSES.md](./WITNESSES.md)
 2. You become a public validator that safe AI for children is possible
 
-Open a Discussion post in the `Witnesses` category or email challenge@humanaicoevolution.dpdns.org
+Open a Discussion post in the Witnesses category or email challenge@humanaicoevolution.dpdns.org
 
 ## Ledger Structure
 
